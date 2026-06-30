@@ -1,4 +1,10 @@
-# -
+# 登录网站
+1.联网，绑定了云数据库
+https://study-checkin.netlify.app/
+
+2.没联网，只能本地登录，换个设备可能不行了
+https://check-cat.netlify.app/
+
 学习打卡系统
 <img width="1904" height="856" alt="image" src="https://github.com/user-attachments/assets/77e89f0d-2677-4ba5-accf-994e9a5ea669" />
 <img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/d1895d96-a082-45de-8e8e-334a8a4ecc33" />
@@ -10,9 +16,3 @@
 <img width="862" height="650" alt="image" src="https://github.com/user-attachments/assets/5d362f92-c33e-4b21-bd94-216a367f8154" />
 <img width="846" height="752" alt="image" src="https://github.com/user-attachments/assets/2c2a7a71-9ddd-4290-b43a-98d9efcbac5f" />
 
-两个登录网站
-1.联网，绑定了云数据库
-https://study-checkin.netlify.app/
-
-2.没联网，只能本地登录，换个设备可能不行了
-https://check-cat.netlify.app/
